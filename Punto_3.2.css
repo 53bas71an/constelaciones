@@ -47,6 +47,10 @@ header nav ul li a:hover{
 	color: #F7F283;
 	font-family: fantasy;
 }
+img{
+	height:100vh;
+	width:100%;
+}
 #boton{
 	border:1px solid #F7F283;
 	padding: 15px;
